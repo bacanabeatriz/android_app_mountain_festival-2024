@@ -1,6 +1,6 @@
 # Festival App
 
-The Festival App is a mobile application developed for Android devices that provides information and features related to the festival event. The app aims to make it easy for users to access event details, schedule, volunteer opportunities, and other useful information, as well as manage their event tickets.
+The Festival App is webapp that provides information and features related to the festival event. The aims to make it easy for users to access event details, schedule, volunteer opportunities, and other useful information, as well as manage their event tickets.
 
 ## Features
 
@@ -18,20 +18,12 @@ The Festival App is a mobile application developed for Android devices that prov
 
 ## Development
 
-The app is developed using Android Studio, which is the official integrated development environment (IDE) for Android app development. It is written in Java programming language and utilizes various Android SDK components.
-
-To build and run the app locally, follow these steps:
-
-1. Clone the repository: `git clone <repository-url>`
-2. Open the project in Android Studio.
-3. Build the project using the Gradle build system.
-4. Run the app on an Android emulator or physical device.
+The app is developed using html, php, css, C, Python and integrations with Google Calendar, Google Maps and Sympla.
 
 ## Contributing
 
-Contributions to the Festival App are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue on this repository. If you would like to contribute code, please fork the repository, make your changes, and submit a pull request.
+Contributions to the Festival App are welcome! If you have any feedback, suggestions, bug reports, or feature requests, please open an issue on this repository. If you would like to contribute code, this is not possible as it is my Final Project to CSX50. After it, I will open it to contributors.
 
 ## License
 
 The Festival App is released under the [MIT License](LICENSE).
-

@@ -1,0 +1,17 @@
+body {
+  background-color: #fffcf5;
+  font-family: sans-serif;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 30px;
+  font-color: #1c1c1c;
+}
+
+h2, h3 {
+  font-size: 20px;
+  font-color: red;
+}
+
+

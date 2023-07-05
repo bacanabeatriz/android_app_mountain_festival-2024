@@ -9,9 +9,15 @@ h1 {
   font-color: #1c1c1c;
 }
 
-h2, h3 {
-  font-size: 20px;
+h2 {
+  font-size: 30px;
   font-color: red;
+}
+
+h3 {
+  font-size: 30px;
+  font-weight: bold;
+  font-family: fredericka the great, fantasy;
 }
 
 

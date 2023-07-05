@@ -6,18 +6,17 @@ body {
 
 h1 {
   font-size: 30px;
-  font-color: #1c1c1c;
+  font-color: #5f6360;
 }
 
 h2 {
   font-size: 30px;
-  font-color: red;
+  font-color: #5f6360;
 }
 
 h3 {
   font-size: 30px;
   font-weight: bold;
   font-family: fredericka the great, fantasy;
+  font-color: #5f6360;
 }
-
-
